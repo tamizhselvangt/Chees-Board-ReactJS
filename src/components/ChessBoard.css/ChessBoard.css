@@ -1,0 +1,104 @@
+
+table{
+  border-collapse: collapse;
+  text-align: center;
+}
+td{
+  width:65px;
+  height:65px;
+  border: none;
+
+
+}
+.heading{
+  margin: 30px auto;
+  width: 430;
+  color: bisque;
+}
+.center{
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.odd:hover, .even:hover {
+  transform: scale(1.2);
+  cursor: pointer; 
+}
+
+.odd{
+  background-image: url('/src/assets/white.jpg');
+}
+.even{
+  background-image: url('/src/assets/black.jpeg');
+}
+.border{
+  height: 1px;
+}
+
+.box-inner{
+  margin: null;
+  height: 25px;
+  width: 30px;
+  background-image: url('/src/assets/frame3.jpeg');
+
+}
+
+#myVideo {
+  
+  position: relative;
+  margin: auto;
+  min-width: 100vw;
+  min-height: 100vh;
+  z-index: -999;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  
+}
+
+tr {
+  transition: all 1s;
+
+}
+
+.pawn {
+  font-size: 40px;
+  
+}
+.rook{
+  font-size: 40px;
+}
+.knight{
+  font-size: 40px;
+}
+.bishop{
+  font-size: 40px;
+}
+
+.king{
+  font-size: 40px;
+}
+.queen{
+  font-size: 40px;
+}
+.box-inner{
+  color: rgb(190, 170, 143);
+}
+
+
+.note{
+  position: absolute;
+  font-size: 20px;
+  background-color: #C69035;
+  top: 85%;
+  left: 80%;
+  padding: 10px;
+  max-width: 200px;
+  border-radius: 10px;
+}
+span{
+  font-weight: 800;
+}

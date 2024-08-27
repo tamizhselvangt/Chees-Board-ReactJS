@@ -1,5 +1,12 @@
 .App {
-  text-align: center;
+  height: 100vh;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-image: url("https://cdn.pixabay.com/photo/2020/08/25/11/10/chess-5516446_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .App-logo {
