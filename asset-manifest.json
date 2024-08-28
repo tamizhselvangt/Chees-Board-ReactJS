@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Chees-Board-ReactJS/static/css/main.652cadd8.css",
+    "main.js": "/Chees-Board-ReactJS/static/js/main.ddadbe5d.js",
+    "static/js/453.aea98659.chunk.js": "/Chees-Board-ReactJS/static/js/453.aea98659.chunk.js",
+    "static/media/white.jpg": "/Chees-Board-ReactJS/static/media/white.8142365d4401a4ce132e.jpg",
+    "static/media/frame3.jpeg": "/Chees-Board-ReactJS/static/media/frame3.3c7b86e7a9fcf6e11a25.jpeg",
+    "index.html": "/Chees-Board-ReactJS/index.html",
+    "main.652cadd8.css.map": "/Chees-Board-ReactJS/static/css/main.652cadd8.css.map",
+    "main.ddadbe5d.js.map": "/Chees-Board-ReactJS/static/js/main.ddadbe5d.js.map",
+    "453.aea98659.chunk.js.map": "/Chees-Board-ReactJS/static/js/453.aea98659.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.652cadd8.css",
+    "static/js/main.ddadbe5d.js"
+  ]
+}
